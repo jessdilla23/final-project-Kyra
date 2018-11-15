@@ -1,0 +1,24 @@
+form.webPoll fieldset {
+    background:#FCFAFC;
+    behavior:url(PIE.php);
+    border:1px solid #FCFAFC;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    margin:0;
+    padding:0;
+    position:relative;
+}
+form.webPoll ul {
+    behavior:url(PIE.php);
+    border:2px #bebebe solid;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    font-family:verdana;
+    font-size:10px;
+    list-style-type:none;
+    margin:0;
+    padding:10px 0;
+    position:relative;
+}
